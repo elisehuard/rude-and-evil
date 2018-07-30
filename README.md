@@ -28,6 +28,6 @@ I started with some literature study, and may try the techniques mentioned in th
 
 ## Possible future work
 
-* thought on how to obtain a larger corpus (carefully monitored crowdsourcg)?
+* thought on how to obtain a larger corpus (carefully monitored crowdsourcing)?
 * would it be possible to include network data?  Who someone follows and interacts with is likely to match their views and attitude. this could bump up against GDPR
 * bookmarklet with existing model?
